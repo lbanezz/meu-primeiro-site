@@ -1,1 +1,1 @@
-Meu primeiro site acesse: https://lbanezz.github.io/meu-primeiro-site.github.io/
+Meu primeiro site acesse: https://lbanezz.github.io/meu-primeiro-site/
